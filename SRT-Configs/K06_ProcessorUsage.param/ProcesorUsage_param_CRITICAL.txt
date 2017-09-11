@@ -1,0 +1,2 @@
+win;WINDOWSOVERALLCPU;;100;CRITICAL;-;-;0000;2359
+win;ID*;;;disable;;;;

@@ -1,0 +1,17 @@
+win;Default_Tag;HOST_DEFAULTS;AllExcept;MINOR;REC;;;;
+;;sppsvc;NO_MONIT;;;;;;
+
+;;clr_optimization_v4.0.30319_64;NO_MONIT;;;;;;
+;;clr_optimization_v4.0.30319_32;NO_MONIT;;;;;;
+
+;;ShellHWDetection;NO_MONIT;;;;;;
+
+;;WinDefend;NO_MONIT;;;;;;
+
+;;helpsvc;NO_MONIT;;;;;;
+;;EnterpriseVaultIndexingService;NO_MONIT;;;;;;
+;;OSD NT Downtime;NO_MONIT;;;;;;
+;;clr_optimization_v2.0.50727_64;NO_MONIT;;;;;;
+;;clr_optimization_v2.0.50727_32;NO_MONIT;;;;;;
+;;gupdate;NO_MONIT;;;;;;
+;;wuauserv;NO_MONIT;;;;;;

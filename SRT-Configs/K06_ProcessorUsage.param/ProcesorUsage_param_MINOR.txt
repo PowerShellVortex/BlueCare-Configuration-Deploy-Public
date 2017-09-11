@@ -1,0 +1,3 @@
+win;WINDOWSOVERALLCPU;;100;MINOR;-;-;0000;2359
+
+win;ID*;;;disable;;;;

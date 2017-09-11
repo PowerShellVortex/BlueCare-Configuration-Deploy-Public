@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Configuration>
+   <XLS_SheetName 			value="Configuration"/>
+   <XLS_FileName 			value="SRT-BlueCare-Configuration-Test.xls"/>
+   <g_CfgClientName 		value="SRT"/>
+   <g_CfgMasterPath 		value="D:\Powershell\BlueCare-Configuration-Deploy-Test"/>
+   <g_CfgDestinationFolder 	value="c$\IBM\ITM\smitools\config"/>
+</Configuration>
